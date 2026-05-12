@@ -49,5 +49,5 @@ defi protocol work
 
 ## Reach out
 
-LinkedIn → https://linkedin.com/in/SahileshKhote  
+LinkedIn → https://linkedin.com/in/shailesh-khote  
 X → https://x.com/0x_Shailesh
