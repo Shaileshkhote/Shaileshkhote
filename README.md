@@ -50,4 +50,4 @@ defi protocol work
 ## Reach out
 
 LinkedIn → https://linkedin.com/in/shailesh-khote  
-X → https://x.com/0x_Shailesh
+X → https://x.com/evm_sk
