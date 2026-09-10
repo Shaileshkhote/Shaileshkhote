@@ -10,7 +10,7 @@ Mostly working on trading systems and automation tools that people use daily —
 
 **DefiLlama**  
 
----
+## Before this
 
 **Brightside**  
 Multi-platform perps trading app  
@@ -19,8 +19,6 @@ Multi-platform perps trading app
 **UGC.AG**  
 AI automation for Instagram  
 → turning inbound messages into actual outcomes (not just replies)  
-
-## Before this
 
 **DotNames**  
 on-chain identity / naming  
