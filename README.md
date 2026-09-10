@@ -8,6 +8,10 @@ Mostly working on trading systems and automation tools that people use daily —
 
 ## Current
 
+**DefiLlama**  
+
+---
+
 **Brightside**  
 Multi-platform perps trading app  
 → one interface, real execution across Hyperliquid, Lighter, and Nado  
@@ -15,8 +19,6 @@ Multi-platform perps trading app
 **UGC.AG**  
 AI automation for Instagram  
 → turning inbound messages into actual outcomes (not just replies)  
-
----
 
 ## Before this
 
